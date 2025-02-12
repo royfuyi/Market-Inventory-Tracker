@@ -1,0 +1,23 @@
+{
+    "saleLogs": [{"0": "Sold 20 of the product \"test2\" and made $45.0 profit!"}],
+    "name": "test",
+    "inventoryList": [
+        {
+            "cost": 0.75,
+            "price": 1.5,
+            "name": "test1",
+            "amountSold": 0,
+            "amountOwned": 20
+        },
+        {
+            "cost": 1.25,
+            "price": 3.5,
+            "name": "test2",
+            "amountSold": 20,
+            "amountOwned": 15
+        }
+    ],
+    "profit": 45,
+    "totalCost": 58.75,
+    "sales": 70
+}
