@@ -1,6 +1,6 @@
 # Market Inventory Tracker
 
-### **Description**
+## **Description**
 
 An application to aide small business owners and vendors keep track of their product inventory and profit. Users are able to enter each type of product, the amount they have, the cost for each, how much they are selling it for, and how much they've sold into the tracker and save their information. When they make sales, this application will calculate the profits and keep track of how many items are still left in stock. Additionally, users can view their sale history, total cost of all products, total money made on sales, and total profit made.
 
